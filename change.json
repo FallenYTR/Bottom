@@ -1,5 +1,5 @@
 [
-    "ChangeLog: Added Serial Keys, Renamed from AntiCrab to Ult. Improved MO1 method, also has toggle, OTA Updates are now a thing in the Web release, please update if you havent already, have a nice day!",
+    "ChangeLog: Potentially Added a detection method that works for most current menu's atm, All current menu's known to me are detected.",
     ":D",
     "LVersion: 1.05"
 ]
